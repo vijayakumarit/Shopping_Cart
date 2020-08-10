@@ -383,7 +383,7 @@ const products= [
    'https://rukminim1.flixcart.com/image/416/416/jx257680/office-study-chair/s/t/s/pp-polypropylene-carex-da-urban-original-imafgc3y5mzythgx.jpeg?q=70',
    title: 'Da URBAN Carex Medium Back Fabric Office Executive Chair',
    description: 'Highlights : #Wheels, Seat Lock, Swivel, Locking Mechanism, Armrest, Adjustable Seat Height, #W x H: 86 cm x 36 cm (2 ft 9 in x 1 ft 2 in), #Frame Material: Metal, #Upholstery Type: Mesh',
-   price: 4350
+   price: 4355
 })
 ]
 
