@@ -334,7 +334,7 @@ router.post('/login',
 
 const products= [
     new Product({
-        imagePath: 'https://rukminim1.flixcart.com/image/880/1056/jean/n/u/3/bmw-darklevis-ben-martin-32-original-imaedpc4zcgjadsv.jpeg?q=50',
+        imagePath: 'https://rukminim1.flixcart.com/image/658/790/kd3f3bk0/jean/1/c/j/40-kjb-1438-dnft-bl-killer-original-imafu3y6ypzvj7n6.jpeg?q=50',
         title: 'Regular Men Dark Blue Jeans',
         description: 'Product Details : #Comfort stretch denim with unique metal branding and personalized details, power flex stretch. #Slim Fit, #Featuring 5 pocket design, Zip Fly & Shank Button fastening at the Top, #Zip Fly & Shank Button fastening at the Top',
         price: 400
@@ -347,10 +347,10 @@ const products= [
     }),
     
     new Product({
-        imagePath: 'https://rukminim1.flixcart.com/image/416/416/k65d18w0/mobile/w/u/h/poco-x2-mzb9013in-original-imafzz2hdysz9njg.jpeg?q=70',
-        title: 'POCO X2 (Matrix Purple, 128 GB)',
-        description: 'Description : Get set to game, capture, and watch your favourite content on the POCO X2 smartphone. Featuring the RealityFlow display, a quad rear camera system (64 MP Sony IMX686 sensor, 8 MP ultra-wide sensor),',
-        price: 18499
+        imagePath: 'https://rukminim1.flixcart.com/image/880/1056/k47cgi80/watch/3/f/b/new-stylish-boys-combo-rizzly-original-imafn5y4wbnkjzqa.jpeg?q=50',
+        title: 'Rizzly New Stylish Boys Combo Analog Watch',
+        description: 'Description : #Display Type : Analog, #Style Code : New Stylish Boys Combo, #Occasion : Casual, #Watch Type : Wrist Watch, #Pack of : 6, #Dial Color : Multicolor',
+        price: 569
     }),
     new Product({
         imagePath: 'https://rukminim1.flixcart.com/image/416/416/k02qnww0/monitor/s/z/c/22mp68vq-22mp68-lg-original-imafjy9zfwfnngna.jpeg?q=70',
